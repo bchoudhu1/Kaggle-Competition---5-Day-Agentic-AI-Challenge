@@ -100,7 +100,6 @@ Internal Databases – State tracking, workflow history, and auditing records.
 Agents are autonomous, modular, and interoperable, enabling dynamic scaling, seamless collaboration, and adaptive workflow evolution.
 
 If I Had More Time
-Predictive Analytics – ML-driven retention, onboarding success, and performance insights.
 Expanded AI Manager Capabilities – Department-level oversight and workflow reasoning.
 Multilingual Support – Global HR automation with consistent context across languages.
 Workforce Planning Dashboards – Visualize resource allocation, talent gaps, and productivity metrics.
